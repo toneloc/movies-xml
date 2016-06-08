@@ -1,0 +1,42 @@
+<movie_collection xmlns:colletion="http://movies.com">
+	<movie id=12>
+			<title>Death Wish</title>
+			<desc>"Charles Bronson is vigilante Paul Kersey."</desc>
+			<showtimes>1:00pm</showtimes>
+			<showtimes>4:00pm</showtimes>
+			<showtimes>7:00pm</showtimes>
+			<showtimes>10:00pm</showtimes>
+			<nuance/>
+			<awards/>
+	</movie>
+
+	<movie id=13>
+			<title>Death Wish II</title>
+			<desc>"Charles Bronson, still vigilante Paul Kersey."</desc>
+			<showtimes>2:00pm</showtimes>
+			<showtimes>7:00pm</showtimes>
+			<showtimes>11:00pm</showtimes>
+			<nuance/>
+			<awards/>
+	</movie>
+
+	<movie id=14>
+			<title>Death Wish 3</title>
+			<desc>"Charles Bronson, back as vigilante Paul Kersey."</desc>
+			<showtimes>12:00pm</showtimes>
+			<showtimes>4:30pm</showtimes>
+			<showtimes>10:00pm</showtimes>
+			<nuance/>
+			<awards/>
+	</movie>
+
+	<movie id=15>
+			<title>Death Wish 4: The Crackdown</title>
+			<desc>"Charles Bronson makes his long-awaited return as vigilante Paul Kersey"</desc>
+			<showtimes>2:00pm</showtimes>
+			<showtimes>7:00pm</showtimes>
+			<showtimes>11:00pm</showtimes>
+			<nuance/>
+			<awards/>
+	</movie>
+</movie_collection>
